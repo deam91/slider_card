@@ -2,7 +2,7 @@ name: slider_card
 description: Simple card with slider.
 version: 0.0.1
 author: Jorge Damian Diaz Morejon<deamdiaz27@gmail.com>
-homepage:
+homepage: https://github.com/deam91/slider_card.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,8 +11,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  mime_type: ^0.3.2
-  path_provider: ^1.6.18
 
 dev_dependencies:
   flutter_test:

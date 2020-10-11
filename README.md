@@ -1,6 +1,6 @@
-# all_mime
+# slider_card
 
-A new Flutter package project.
+A new car with a customizable slider.
 
 ## Getting Started
 
